@@ -1,18 +1,17 @@
 # Pokédex 🐾
- A simple pokedex developed during the "MapaDev - Week"
+ Uma pokédex feita durante a "MapaDev Week"
  
  ## 🖥 Preview
 <img src="readme.gif" alt="gid-readme">
  
- ## 🚀 Technologies
+ ## 🚀 Tecnologias
  
- Here are the technologies used in this project.
  * HTML
  * CSS
  * JavaScript
  
- ## ✅ Project Status
- * Finished
- * Responsive
+ ## ✅ Status do Projeto
+ * Terminado
+ * Responsivo
 
  
